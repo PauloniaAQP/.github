@@ -12,7 +12,7 @@
 
 
 
-##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> HI WE ARE [PAULONIA] 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <h2>HI WE ARE [PAULONIA] </h2>
 We match <b>Flutter</b> and our design skills 🧑‍💻 to deliver a quality app in no time 🚀. Hit us up for **machine learning** ,**android** ,**software architecture**, or **tech in general** 🎯.
 
 <b> Our development service on Flutter includes:</b>
